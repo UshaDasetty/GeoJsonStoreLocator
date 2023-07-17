@@ -2,8 +2,8 @@
 it is about to add Store in the map &amp; locate them using NodeJS. It is done using Third party API MapQuest.
 
 # To Run the Project
--> npm i
--> npm run dev
+npm i
+npm run dev
 
 # config.env
 NODE_ENV=development
